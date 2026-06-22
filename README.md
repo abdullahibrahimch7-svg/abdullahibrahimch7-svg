@@ -1,15 +1,9 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Abdullah%20Ibrahim&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Python%20Developer%20•%20Future%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Abdullah Ibrahim</h1>
-
-<h3 align="center">
-Python Developer • Future Software Engineer
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=700&lines=Python+Developer;Building+Interesting+Projects;Always+Learning+Something+New;Welcome+to+my+GitHub"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=4DA8DA&center=true&vCenter=true&width=700&lines=Python+Developer;Building+Cool+Projects;Always+Learning+New+Things;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -19,12 +13,14 @@ Python Developer • Future Software Engineer
 ```python
 name = "Abdullah Ibrahim"
 
+username = "abdullahibrahimch7-svg"
+
 role = "Python Developer"
 
 currently_learning = [
+    "Python",
     "Git",
-    "GitHub",
-    "Python"
+    "GitHub"
 ]
 
 goal = "Become a Professional Software Engineer"
@@ -36,13 +32,13 @@ goal = "Become a Professional Software Engineer"
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 
 </p>
 
@@ -53,36 +49,34 @@ goal = "Become a Professional Software Engineer"
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
+src="https://github-readme-stats.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&theme=transparent"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahibrahimch7-svg&layout=compact&theme=transparent"/>
 
 </p>
 
 ---
 
-## 🚀 Current Goals
+## 🎯 Current Goals
 
 - Build useful Python projects
+- Improve problem-solving skills
 - Learn advanced Git workflows
 - Contribute to Open Source
-- Improve problem-solving skills
 
 ---
 
+## 💡 Favorite Quote
 
-
->       "Consistency beats intensity."
+> "Consistency beats intensity."
 
 ---
 
 <p align="center">
-
 Thanks for visiting my profile.
-
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,100:0F2027&section=footer"/>
 </p>

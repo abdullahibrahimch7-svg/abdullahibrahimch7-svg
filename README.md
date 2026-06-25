@@ -138,10 +138,9 @@ Abdullah_Ibrahim = {
 <p style="font-family: 'Cinzel', serif; font-weight: 400; text-transform: uppercase; letter-spacing: 8px; text-align: center;">
     Consistency beats intensity.
     </p>
----
+
 <p align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
 
 </p>
----

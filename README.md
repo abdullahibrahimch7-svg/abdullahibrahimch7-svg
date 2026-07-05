@@ -50,17 +50,17 @@ goal = "Become a Professional Software Engineer"
 </p>
 
 ---
-
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&theme=transparent"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahibrahimch7-svg&layout=compact&theme=transparent"/>
-
+  <img
+    src="https://github-readme-stats-el160spi7-abdullahibrahimch7-svgs-projects.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-el160spi7-abdullahibrahimch7-svgs-projects.vercel.app/api/top-langs/?username=abdullahibrahimch7-svg&layout=compact&theme=tokyonight"
+    height="170"
+  />
 </p>
 
 ---

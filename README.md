@@ -134,7 +134,8 @@ Abdullah_Ibrahim = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://portfolio-5hs2o7x9w-abdullahibrahimch7-svgs-projects.vercel.app">
+<a href="https://abdullahibrahim-portfolio.vercel.app">
+
 <img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 

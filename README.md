@@ -50,19 +50,18 @@ goal = "Become a Professional Software Engineer"
 </p>
 
 ---
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats-el160spi7-abdullahibrahimch7-svgs-projects.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-oqml.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&theme=tokyonight"
     height="170"
   />
   <img
-    src="https://github-readme-stats-el160spi7-abdullahibrahimch7-svgs-projects.vercel.app/api/top-langs/?username=abdullahibrahimch7-svg&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-oqml.vercel.app/api/top-langs/?username=abdullahibrahimch7-svg&layout=compact&theme=tokyonight"
     height="170"
   />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -123,18 +122,23 @@ Abdullah_Ibrahim = {
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://github.com/abdullahibrahimch7-svg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:abdullahibrahim.ch7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<a href="https://github.com/abdullahibrahimch7-svg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://portfolio-5hs2o7x9w-abdullahibrahimch7-svgs-projects.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 </p>
----
 <p style="font-family: 'Cinzel', serif; font-weight: 400; text-transform: uppercase; letter-spacing: 8px; text-align: center;">
     Consistency beats intensity.
     </p>

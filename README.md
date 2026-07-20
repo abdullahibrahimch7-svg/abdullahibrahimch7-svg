@@ -328,10 +328,6 @@ Next Goals
   />
 </p>
 
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=abdullahibrahimch7-svg&theme=github-dark-blue&hide_border=true"/>
----
 
 # 📈 Contribution Activity
 

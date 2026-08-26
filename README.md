@@ -44,7 +44,7 @@
 
 ---
 
-# 👋 About Me
+#  About Me
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=abdullahibrahimch7-svg&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000"/>
 
@@ -52,13 +52,13 @@ Hi! I'm **Abdullah Ibrahim**, a passionate **Python Developer** from **Pakistan*
 
 I believe that consistent practice is the key to becoming a great software engineer. Every project I build helps me learn something new and pushes me one step closer to my long-term goal.
 
-### 💡 What I'm Doing
+###  What I'm Doing
 
-- 🐍 Learning Python in depth
-- 🌐 Building modern websites with HTML, CSS & JavaScript
-- 📂 Creating real-world Python projects
-- 🌱 Exploring Open Source
-- 🚀 Improving problem-solving skills every day
+-  Learning Python in depth
+-  Building modern websites with HTML, CSS & JavaScript
+-  Creating real-world Python projects
+-  Exploring Open Source
+-  Improving problem-solving skills every day
 
 <br clear="right"/>
 
@@ -102,14 +102,14 @@ Abdullah_Ibrahim = {
 
 <div align="center">
 
-### ⭐ *"Small improvements every day lead to remarkable results."*
+###  *"Small improvements every day lead to remarkable results."*
 
 </div>
 <!-- ===================================================== -->
 <!--                  TECH STACK SECTION                    -->
 <!-- ===================================================== -->
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -138,12 +138,12 @@ Abdullah_Ibrahim = {
 
 <td width="50%" valign="top">
 
-### 💻 Programming
+###  Programming
 
-- 🐍 Python
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
+-  Python
+-  HTML5
+-  CSS3
+-  JavaScript
 
 </td>
 
@@ -179,11 +179,11 @@ Abdullah_Ibrahim = {
 
 <td width="50%">
 
-### 🧠 Knowledge Quest
+###  Knowledge Quest
 
 A multiple-choice quiz game inspired by **Kaun Banega Crorepati**.
 
-### ✨ Features
+###  Features
 
 - Multiple-choice questions
 - Prize money system
@@ -210,7 +210,7 @@ A multiple-choice quiz game inspired by **Kaun Banega Crorepati**.
 
 A menu-driven Python application that simulates basic banking operations.
 
-### ✨ Features
+###  Features
 
 - Deposit money
 - Withdraw money
@@ -237,11 +237,11 @@ A menu-driven Python application that simulates basic banking operations.
 
 <td width="50%">
 
-### 🎓 Student Record Manager
+###  Student Record Manager
 
 A Python application for managing student information.
 
-### ✨ Features
+###  Features
 
 - Add records
 - Search records
@@ -264,16 +264,16 @@ A Python application for managing student information.
 
 <td width="50%">
 
-### 🚧 More Projects Coming Soon
+###  More Projects Coming Soon
 
 I'm continuously learning and building new projects.
 
 Upcoming topics include:
 
-- 🌐 Web Development
-- 🗄️ Database Projects
-- ⚙️ Automation
-- 📦 Open Source Contributions
+-  Web Development
+-  Database Projects
+-  Automation
+-  Open Source Contributions
 
 </td>
 
@@ -283,7 +283,7 @@ Upcoming topics include:
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 <div align="center">
 
@@ -314,7 +314,7 @@ Next Goals
 <!--              GITHUB ANALYTICS SECTION                 -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 
 <p align="center">
@@ -329,7 +329,7 @@ Next Goals
 </p>
 
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -339,7 +339,7 @@ Next Goals
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 
@@ -362,15 +362,15 @@ src="https://raw.githubusercontent.com/abdullahibrahimch7-svg/abdullahibrahimch7
 
 ---
 
-# 🌱 Learning Journey
+#  Learning Journey
 
-| 🚀 Technology | 📖 Progress |
+|  Technology |  Progress |
 |:-------------:|:-----------:|
-| 🐍 Python | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ |
-| 🌐 HTML | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
-| 🎨 CSS | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
-| ⚡ JavaScript | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
-| 🔧 Git & GitHub | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ |
+|  Python | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ |
+|  HTML | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+|  CSS | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+|  JavaScript | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+|  Git & GitHub | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ |
 
 <div align="center">
 
@@ -384,7 +384,7 @@ src="https://raw.githubusercontent.com/abdullahibrahimch7-svg/abdullahibrahimch7
 <!--                CONNECT WITH ME SECTION                -->
 <!-- ===================================================== -->
 
-# 🤝 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -408,18 +408,18 @@ src="https://raw.githubusercontent.com/abdullahibrahimch7-svg/abdullahibrahimch7
 
 ---
 
-# 📌 Quick Information
+#  Quick Information
 
 <div align="center">
 
 | | |
 |:---|:---|
-| 👤 **Name** | Abdullah Ibrahim |
-| 💻 **Role** | Python Developer, Web Developer(Full Stack) |
-| 🌍 **Location** | Pakistan |
-| 🌱 **Currently Learning** | Python • HTML • CSS • JavaScript |
-| 🚀 **Goal** | Professional Software Engineer |
-| 🤝 **Open To** | Learning • Collaboration • Open Source |
+|  **Name** | Abdullah Ibrahim |
+|  **Role** | Python Developer, Web Developer(Full Stack) |
+|  **Location** | Pakistan |
+|  **Currently Learning** | Python • HTML • CSS • JavaScript |
+|  **Goal** | Professional Software Engineer |
+|  **Open To** | Learning • Collaboration • Open Source |
 
 </div>
 
